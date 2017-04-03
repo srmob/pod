@@ -1,2 +1,0 @@
-# pod
-Test sample delivery
